@@ -1,0 +1,4 @@
+id int AI PK 
+username varchar(50) 
+password varchar(255) 
+email varchar(100)

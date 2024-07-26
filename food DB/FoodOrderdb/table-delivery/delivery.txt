@@ -1,0 +1,5 @@
+id int AI PK 
+name varchar(255) 
+mobile varchar(15) 
+address text 
+email varchar(255)

@@ -1,0 +1,7 @@
+id int AI PK 
+name varchar(255) 
+price decimal(10,2) 
+quantity int 
+image_url varchar(255) 
+is_popular tinyint(1) 
+category varchar(50)
